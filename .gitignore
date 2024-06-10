@@ -2,4 +2,3 @@ node_modules
 .env
 mongo
 public
-docker-compose.yml
